@@ -1,0 +1,10 @@
+rootProject.name = 'untitled'
+
+include ':KrakenStub'
+project(':KrakenStub').projectDir = new File("../KrakenStub")
+
+include ':KrakenAPI'
+project(':KrakenAPI').projectDir = new File("../KrakenAPI")
+
+include ':FreeDev'
+project(':FreeDev').projectDir = new File("../FreeDev")

@@ -1,0 +1,35 @@
+plugins {
+	id 'java'
+	id 'com.github.johnrengelman.shadow' version '7.0.0'
+}
+
+group 'com.darkan'
+version '1.3.2'
+
+sourceCompatibility = '16'
+targetCompatibility = '16'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'com.jcraft:jzlib:1.1.3'
+	implementation 'com.google.code.gson:gson:2.8.5'
+	implementation 'com.google.guava:guava:27.0.1-jre'
+	implementation 'org.apache.commons:commons-compress:1.18'
+	implementation 'org.xerial:sqlite-jdbc:3.32.3.2'
+	implementation project(':KrakenStub')
+	implementation project(':KrakenAPI')
+}
+
+shadowJar {
+	archiveBaseName.set('FreeDevScripts')
+	//dependencies {
+	//	exclude(dependency {
+    //  		it.moduleGroup == 'kraken.api'
+    //	})
+	//}
+}
+
+build.dependsOn(shadowJar)

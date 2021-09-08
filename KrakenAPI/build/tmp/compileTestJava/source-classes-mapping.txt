@@ -1,0 +1,2 @@
+kraken.plugin.test/StreamTests.java
+ kraken.plugin.test.StreamTests

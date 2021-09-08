@@ -1,0 +1,12 @@
+kraken/stub/Plugins.java
+ kraken.stub.Plugins
+kraken/stub/ExamplePlugin.java
+ kraken.stub.ExamplePlugin
+kraken/plugin/Entry.java
+ kraken.plugin.Entry
+kraken/stub/ByteArrayClassLoader.java
+ kraken.stub.ByteArrayClassLoader
+ kraken.stub.ByteArrayClassLoader$ClassLoadingAction
+ kraken.stub.ByteArrayClassLoader$PersistenceHandler
+ kraken.stub.ByteArrayClassLoader$PersistenceHandler$1
+ kraken.stub.ByteArrayClassLoader$PersistenceHandler$2

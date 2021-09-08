@@ -1,0 +1,119 @@
+kraken/plugin/api/Inventory.java
+ kraken.plugin.api.Inventory
+kraken/plugin/api/Bank.java
+ kraken.plugin.api.Bank
+kraken/plugin/api/AsyncData.java
+ kraken.plugin.api.AsyncData
+kraken/plugin/api/Stat.java
+ kraken.plugin.api.Stat
+kraken/plugin/api/ImGui.java
+ kraken.plugin.api.ImGui
+kraken/plugin/api/Dialogue.java
+ kraken.plugin.api.Dialogue
+ kraken.plugin.api.Dialogue$DialogueOption
+kraken/plugin/api/Client.java
+ kraken.plugin.api.Client
+kraken/plugin/api/SceneObjects.java
+ kraken.plugin.api.SceneObjects
+kraken/plugin/api/Vector2.java
+ kraken.plugin.api.Vector2
+kraken/plugin/api/Text.java
+ kraken.plugin.api.Text
+kraken/plugin/api/Players.java
+ kraken.plugin.api.Players
+kraken/plugin/api/Input.java
+ kraken.plugin.api.Input
+kraken/plugin/api/KrakenRuntimeException.java
+ kraken.plugin.api.KrakenRuntimeException
+kraken/plugin/api/Entities.java
+ kraken.plugin.api.Entities
+kraken/plugin/api/WidgetGroup.java
+ kraken.plugin.api.WidgetGroup
+kraken/plugin/api/Npc.java
+ kraken.plugin.api.Npc
+kraken/plugin/api/Vector2i.java
+ kraken.plugin.api.Vector2i
+kraken/plugin/api/Effect.java
+ kraken.plugin.api.Effect
+kraken/plugin/api/Item.java
+ kraken.plugin.api.Item
+kraken/plugin/api/BadActionException.java
+ kraken.plugin.api.BadActionException
+kraken/plugin/api/ItemContainer.java
+ kraken.plugin.api.ItemContainer
+kraken/plugin/api/Npcs.java
+ kraken.plugin.api.Npcs
+kraken/plugin/api/Widget.java
+ kraken.plugin.api.Widget
+kraken/plugin/api/ManagedPlugin.java
+ kraken.plugin.api.ManagedPlugin
+ kraken.plugin.api.ManagedPlugin$PluginAction
+kraken/plugin/api/Widgets.java
+ kraken.plugin.api.Widgets
+kraken/plugin/api/PluginContext.java
+ kraken.plugin.api.PluginContext
+kraken/plugin/api/NoOptionsException.java
+ kraken.plugin.api.NoOptionsException
+kraken/plugin/api/TraverseContext.java
+ kraken.plugin.api.TraverseContext
+kraken/plugin/api/Plugin.java
+ kraken.plugin.api.Plugin
+kraken/plugin/api/SceneObject.java
+ kraken.plugin.api.SceneObject
+kraken/plugin/api/ItemContainers.java
+ kraken.plugin.api.ItemContainers
+kraken/plugin/api/Spirit.java
+ kraken.plugin.api.Spirit
+kraken/plugin/api/CacheNpc.java
+ kraken.plugin.api.CacheNpc
+kraken/plugin/api/CacheObject.java
+ kraken.plugin.api.CacheObject
+kraken/plugin/api/Kraken.java
+ kraken.plugin.api.Kraken
+kraken/plugin/api/EquipmentSlot.java
+ kraken.plugin.api.EquipmentSlot
+kraken/plugin/api/Actions.java
+ kraken.plugin.api.Actions
+kraken/plugin/api/Debug.java
+ kraken.plugin.api.Debug
+kraken/plugin/api/Player.java
+ kraken.plugin.api.Player
+kraken/plugin/api/Cache.java
+ kraken.plugin.api.Cache
+ kraken.plugin.api.Cache$LockCallback
+kraken/plugin/api/ConVar.java
+ kraken.plugin.api.ConVar
+kraken/plugin/api/Action1.java
+ kraken.plugin.api.Action1
+kraken/plugin/api/Effects.java
+ kraken.plugin.api.Effects
+kraken/plugin/api/Stream.java
+ kraken.plugin.api.Stream
+kraken/plugin/api/Filter.java
+ kraken.plugin.api.Filter
+kraken/plugin/api/WidgetItem.java
+ kraken.plugin.api.WidgetItem
+kraken/plugin/api/Move.java
+ kraken.plugin.api.Move
+kraken/plugin/api/Entity.java
+ kraken.plugin.api.Entity
+kraken/plugin/api/GroundItem.java
+ kraken.plugin.api.GroundItem
+kraken/plugin/api/Area2di.java
+ kraken.plugin.api.Area2di
+kraken/plugin/api/Time.java
+ kraken.plugin.api.Time
+kraken/plugin/api/CacheItem.java
+ kraken.plugin.api.CacheItem
+kraken/plugin/api/GroundItems.java
+ kraken.plugin.api.GroundItems
+kraken/plugin/api/Array.java
+ kraken.plugin.api.Array
+kraken/plugin/api/Vector3.java
+ kraken.plugin.api.Vector3
+kraken/plugin/api/Vector3i.java
+ kraken.plugin.api.Vector3i
+kraken/plugin/api/Random.java
+ kraken.plugin.api.Random
+kraken/plugin/api/Action.java
+ kraken.plugin.api.Action
